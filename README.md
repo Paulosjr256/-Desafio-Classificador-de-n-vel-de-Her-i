@@ -1,9 +1,7 @@
-# -Desafio-Classificador-de-nível-de-Heroi
+# Desafio-Classificador-de-nível-de-Heroi
 Desafio Proposto pelo Felipe da DIO
 
-# Aprendi com esse desafio:
-
-Com o desafio Classificador de Nível de Herói aprendi a:
+# Com o desafio Classificador de Nível de Herói aprendi a:
 
 Declarar variáveis para armazenar informações (nome e experiência do herói).
 
